@@ -6,6 +6,20 @@
 * Google CGI API for Japanese Input
 <http://www.google.co.jp/ime/cgiapi.html>
 
+###サンプルレスポンス
+
+	[
+	  ["ここでは",
+	    ["ここでは", "個々では", "此処では"],
+	  ],
+	  ["きものを",
+	    ["着物を", "きものを", "キモノを"],
+	  ],
+	  ["ぬぐ",
+	    ["脱ぐ", "ぬぐ", "ヌグ"],
+	  ],
+	]
+
 ###html作成
 	#hiragana.html
 	
