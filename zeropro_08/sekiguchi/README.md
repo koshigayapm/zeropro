@@ -28,7 +28,7 @@
 		<head>
 			<meta charset="utf8">
 			<title>jQueryのajaxを使ったデモ1</title>
-			<script type="text/javascript" src="../jquery.js"><!-- -1.9.1 --></script>
+			
 			<script type="text/javascript" src="hiragana.js"></script>
 			<style type="text/css">
 				#container{margin: 10px;}
@@ -278,7 +278,7 @@ jsは変換候補をselectタグで表示するようにする。
 		<head>
 			<meta charset="utf8">
 			<title>jQueryのajaxを使ったデモ2</title>
-			<script type="text/javascript" src="../jquery.js"><!-- -1.9.1 --></script>
+			
 			<script type="text/javascript" src="zipcode.js"></script>
 			<style type="text/css">
 				#container{margin: 10px;}
